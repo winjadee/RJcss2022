@@ -1,0 +1,128 @@
+body{
+    margin: 0%;
+    text-align: center;
+    font-family: 'Aboreto', cursive;
+    font-size: 30px;
+    color: black;
+    font-weight: 400px;
+    
+
+}
+h1{
+    margin: 50px auto 40px;
+    font-size: 75px;
+    font-family: 'Sacramento', cursive;
+    color: #c3073f;
+}
+h2{
+    font-size: 25px;
+    color:#ac3b61;
+    padding-top: 15px;
+    font-weight: 80%;
+}
+.h2-forheader{
+    color: white;
+
+}
+h3{
+    color: #123c69;
+}
+.top-cloud{
+    position:absolute;
+    right: 200px;
+    top: 30px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 200px;
+    bottom: 450px;
+}
+.top-container{
+    padding-top: 100px;
+    background-color: black;
+}
+.profile-image{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    border: 4px solid black;
+}
+.intro{
+    margin: auto;
+    width: 50%;
+}
+p{
+    line-height: 2;
+    font-size: 20px;
+}
+.middle-container{
+    padding-top: 200px;
+    padding-bottom: 150px;
+    background-color: #edc7b7;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 10%;
+    margin: 50px auto;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+.skill-one {
+    width: 25%;
+    float: left;
+    margin-right: 80px;
+}
+
+.skill-two {
+    width: 25%;
+    float: right;
+    margin-left: 80px;
+
+}
+
+.skill-three {
+    width: 25%;
+    float: left;
+    margin-right: 80px;
+}
+.buttonClass {
+    font-size:30px;
+    font-family:Arial;
+    width:165px;
+    height:74px;
+    border-width:1px;
+    color:#fff;
+    border-color:#1f2f47;
+    border-top-left-radius:17px;
+    border-top-right-radius:17px;
+    border-bottom-left-radius:17px;
+    border-bottom-right-radius:17px;
+    box-shadow:inset 0px 0px 15px 3px rgba(14, 15, 17, 1);
+    text-shadow:inset 0px 1px 0px #263666;
+    background:linear-gradient(rgba(248, 46, 18, 1), rgba(26, 79, 184, 1));
+    text-decoration: none;
+  }
+  
+  .buttonClass:hover {
+    background: linear-gradient(rgba(26, 79, 184, 1), rgba(248, 46, 18, 1));
+  }
+  .footer-part{
+    background-color: skyblue                            ;
+    padding: 150px;
+}
+.footer-link{
+    font-size: 40px;
+    margin-left: 20px;
+    font-family: 'Sacramento', cursive;
+    text-decoration: none;
+}
+.footer-link:hover{
+    color:#76ba99 ;
+}
+  
